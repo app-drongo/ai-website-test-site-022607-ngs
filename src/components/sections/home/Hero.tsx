@@ -11,7 +11,7 @@ const DEFAULT_HERO = {
   title: 'Reliable Testing Solutions',
   subtitle: 'Built for Developers',
   description:
-    'Streamlined technology that simplifies your testing workflows without compromising functionality. Proven, scalable solutions for real-world applications.',
+    'Streamlinedd technology that simplifies your testing workflows without compromising functionality. Proven, scalable solutions for real-world applications.',
   ctaText: 'Start Testing',
   ctaHref: '/get-started',
   secondaryCtaText: 'View Documentation',
